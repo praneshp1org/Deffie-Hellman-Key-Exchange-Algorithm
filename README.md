@@ -1,7 +1,7 @@
  Clone the repo
 
   ```bash 
-  git clone https://github.com/Cryptography-demo-in-NodeJs/DiffieHellman.git
+  git clone https://github.com/praneshp1org/Deffie-Hellman-Key-Exchange-Algorithm.git
   ```
  Open 2 terminals one for Alice one for Bob
 
